@@ -1,3 +1,5 @@
+[![MSeeP.ai Security Assessment Badge](https://mseep.net/pr/tayunzk-wanwu-badge.png)](https://mseep.ai/app/tayunzk-wanwu)
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/86af1a7a-2a62-4271-a2b3-d6fad37215a6" style="width:40%; height:auto;" />
 </div><br>
